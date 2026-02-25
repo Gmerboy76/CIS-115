@@ -1,4 +1,7 @@
-// ====== INTEGER TYPES ======
+public class M3CW2_Omojola {
+    public static void main(String[] args) {
+
+        // ====== INTEGER TYPES ======
 
         // byte: very small whole number (-128 to 127)
         byte myByte = 100;
